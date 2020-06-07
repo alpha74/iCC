@@ -1,4 +1,4 @@
-https://www.codechef.com/JUNE20B/problems/EVENM
+// https://www.codechef.com/JUNE20B/problems/EVENM
 
 #include <bits/stdc++.h>
 
