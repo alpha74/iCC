@@ -6,7 +6,7 @@ using namespace std ;
 
 #define ll long long int
 
-ll count_wins( ll ts ) 
+ll count_wins( ll &ts ) 
 {
 	if( ts <= 2 )
 		return 0 ;
