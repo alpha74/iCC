@@ -4,7 +4,7 @@
 
 using namespace std ;
 
-#define ll long long int
+#define ll unsigned long long int
 
 ll count_wins( ll &ts ) 
 {
