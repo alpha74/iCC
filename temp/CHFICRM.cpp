@@ -44,7 +44,7 @@ bool all_sell_possible( vector<int> &A, int size )
 				possible = false ;
 		}
 		// change == 10
-		else
+		else if( change == 10 )
 		{
 			// Pay in 10 coins
 			if( count10 > 0 )
@@ -57,6 +57,7 @@ bool all_sell_possible( vector<int> &A, int size )
 			else
 				possible = false ;
 		}
+		else ;
 	}
 	
 	return possible ;
