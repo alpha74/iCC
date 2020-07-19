@@ -1,5 +1,7 @@
+// Lapindromes
 // Find if given string is Lapindrome or Not.
-// https://www.codechef.com/LRNDSA01/submit/LAPIN
+// https://www.codechef.com/problems/LAPIN
+// Aman Kumar
 
 #include <bits/stdc++.h> 
 
