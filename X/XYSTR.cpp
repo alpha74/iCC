@@ -1,4 +1,6 @@
+// Chef and String
 // https://www.codechef.com/JUNE20B/problems/XYSTR
+// Aman Kumar
 
 #include <bits/stdc++.h>
 
