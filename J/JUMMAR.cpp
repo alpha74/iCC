@@ -1,4 +1,6 @@
+// The Jumping Mario
 // https://www.codechef.com/MARS2020/problems/JUMMAR
+// Aman Kumar
 
 #include <bits/stdc++.h>
 
