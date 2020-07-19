@@ -1,4 +1,4 @@
-// EVENM
+// Even Matrix
 // https://www.codechef.com/JUNE20B/problems/EVENM
 // Aman Kumar
 
