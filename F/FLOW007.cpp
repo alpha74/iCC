@@ -1,5 +1,6 @@
-// Reverse the given number
+// Reverse the Number
 // https://www.codechef.com/LRNDSA01/problems/FLOW007
+// Aman Kumar
 
 #include <bits/stdc++.h>
 
