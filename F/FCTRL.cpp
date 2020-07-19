@@ -1,5 +1,9 @@
-// Find number of trailing zeroes in given n!
+// Factorial
 // https://www.codechef.com/LRNDSA01/problems/FCTRL
+// Aman Kumar
+
+// Find number of trailing zeroes in given n!
+
 
 #include <bits/stdc++.h>
 
