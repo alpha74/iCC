@@ -1,4 +1,4 @@
-// EOEO
+// The Tom and Jerry Game!
 // https://www.codechef.com/JUNE20B/problems/EOEO
 // Aman Kumar
 
