@@ -1,5 +1,8 @@
+// COVID Pandemic and Log Queue
 // https://www.codechef.com/APRIL20B/problems/COVIDLQ
-// Store positions of 1 in an array and check for the differences < 6.
+// Aman Kumar
+
+// INSIGHT:  Store positions of 1 in an array and check for the differences < 6.
 
 #include <bits/stdc++.h>
 
