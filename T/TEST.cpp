@@ -1,4 +1,6 @@
-// Link: https://www.codechef.com/LRNDSA01/problems/TEST
+// Life, the Universe, and Everything
+// https://www.codechef.com/LRNDSA01/problems/TEST
+// Aman Kumar
 
 #include <bits/stdc++.h>
 
