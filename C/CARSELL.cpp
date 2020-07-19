@@ -1,4 +1,4 @@
-// CARSELL
+// Sell All the Cars
 // https://www.codechef.com/APRIL20B/problems/CARSELL
 // Aman Kumar
 
