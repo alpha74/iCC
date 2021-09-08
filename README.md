@@ -1,3 +1,5 @@
+![Codechef](https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg)
+
 # My CodeChef Submissions
 ## alpha74
 
