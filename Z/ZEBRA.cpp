@@ -34,13 +34,18 @@ void generalkenobi()
 	// Yes, possible to make K jumps
 	if( countch >= k )
 	{
+		// Check from last to get farthest block
 		for(int i = n - 1; i >= 0 && ret == -1 ; i--)
 		{
+			// Total 4 cases
+			
+			// If k is odd AND ((If starting is 1 AND current is 0 ) OR ( If starting is 0 AND current is 1 ) ) 
 			if( k % 2 && s[i] != s[0])
 			{
 				ret = i+1 ;
 			}
-			else if(!(k % 2) && s[i] == s[0])
+			// If k is even AND (( If starting is 1 AND current is 1 ) OR ( If starting is 0 and current is 0 ) )
+			if(!(k % 2) && s[i] == s[0])
 			{
 				ret = i+1 ;
 			}
