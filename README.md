@@ -20,6 +20,7 @@
 using namespace std ;
 
 #define ll long long int
+#define ull unsigned long long int
 
 void beeblebrox() ;
 
